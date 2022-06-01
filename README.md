@@ -1,2 +1,2 @@
 # Juul
-Juul client deobfuscated and decompiled
+Everyone's favorite paste client from intent.store deobfuscated and decompiled.
